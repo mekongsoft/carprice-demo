@@ -13,6 +13,23 @@ https://github.com/mekongsoft/carprice-demo
 
 We deploy a Car Price Prediction during the years 1960 - 2024 of car dealers in the United States.
 
+# MLOps: MLflow and Databricks
+
+All processes
+
+<img src="https://github.com/mekongsoft/carprice-demo/blob/main/marketing/MLflow1.png"/>
+
+EDA Charts
+
+<img src="https://github.com/mekongsoft/carprice-demo/blob/main/marketing/MLflow2.png"/>
+
+All App Models
+
+<img src="https://github.com/mekongsoft/carprice-demo/blob/main/marketing/MLflow3.png"/>
+
+
+# EDA
+
 This is our Correlation Matrix
 
 <img src="https://github.com/mekongsoft/carprice-demo/blob/main/marketing/correated_features_heatmap.png"/>
@@ -20,6 +37,8 @@ This is our Correlation Matrix
 This is our Feature Importances in Car Price Prediction
 
 <img src="https://github.com/mekongsoft/carprice-demo/blob/main/marketing/carprice_feature_importances.png"/>
+
+# Accuracies
 
 These are some of our Car price prediction's accuracy charts by comparing our predicted prices to the actual prices from 2022-2024.
 
