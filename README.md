@@ -37,7 +37,7 @@ These are some of our Car price prediction's accuracy charts by comparing our pr
 
 <img src="https://github.com/mekongsoft/carprice-demo/blob/main/marketing/log_predicted_vs_expected_price_Genesis.png"/>
 
-This Repo is for Markerting Demo tasks.
+This Repo is for Marketing Demo tasks.
 
 https://github.com/mekongsoft/carprice-demo
 
